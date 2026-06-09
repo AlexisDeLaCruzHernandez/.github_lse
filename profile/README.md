@@ -10,15 +10,15 @@ Desarrollo de sistemas embebidos, firmware, hardware y herramientas para proyect
 
 La siguiente grilla refleja los horarios acordados de cada integrante. Se actualiza mediante PR ante cualquier cambio.
 
-| Horario     | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado |
-|-------------|-------|--------|-----------|--------|---------|--------|
-| 8:00–10:00  |       |        |           |        |         |        |
-| 10:00–12:00 |       |        |           |        |         |        |
-| 12:00–14:00 |       |        |           |        |         |        |
-| 14:00–16:00 |       |        |           |        |         |        |
-| 16:00–18:00 |       |        |           |        |         |        |
-| 18:00–20:00 |       |        |           |        |         |        |
-| 20:00–22:00 |       |        |           |        |         |        |
+| Horario     | Lunes | Martes | Miércoles |    Jueves   |   Viernes   | Sábado |
+|-------------|-------|--------|-----------|-------------|-------------|--------|
+| 8:00–10:00  |       |        |           |             |             |        |
+| 10:00–12:00 |       |        |           |             |             |        |
+| 12:00–14:00 |       |        |           |             |             |        |
+| 14:00–16:00 |       |        |           |             |             |        |
+| 16:00–18:00 |       |        |           | Pablo Gomez | Pablo Gomez |        |
+| 18:00–20:00 |       |        |           |             |             |        |
+| 20:00–22:00 |       |        |           |             |             |        |
 
 > _Para ver la disponibilidad detallada de cada integrante, consultá los archivos en [`disponibilidad/`](../disponibilidad/)._
 
