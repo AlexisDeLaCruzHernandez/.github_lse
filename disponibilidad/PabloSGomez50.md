@@ -9,10 +9,10 @@
 
 | Campo | Completar |
 |-------|-----------|
-| **Nombre completo** | |
-| **Usuario GitHub** | |
-| **Rol** | Docente / Becario / Colaborador externo |
-| **Fecha de ingreso** | AAAA-MM-DD |
+| **Nombre completo** | Pablo Sebastian Gomez |
+| **Usuario GitHub** | PabloSGomez50 |
+| **Rol** | Becario |
+| **Fecha de ingreso** | 2026-04-01 |
 
 ---
 
